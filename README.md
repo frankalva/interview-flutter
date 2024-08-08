@@ -1,11 +1,11 @@
 # Basic Flutter application test
 
 <p align="center">
-  <img width="100" alt="Screenshot 2024-08-08 at 14 49 04" src="https://github.com/user-attachments/assets/5038660d-e096-428c-8c3f-62c17a20c1c5"/>
-  <img width="100" alt="Screenshot 2024-08-08 at 15 02 20" src="https://github.com/user-attachments/assets/c4e956fb-b319-4c2e-a3ad-9f355114c373"/>
-  <img width="100" alt="Screenshot 2024-08-08 at 15 02 39" src="https://github.com/user-attachments/assets/0854d882-b241-4749-9d09-9a0c8adacac4"/>
-  <img width="100" alt="Screenshot 2024-08-08 at 15 03 07" src="https://github.com/user-attachments/assets/dcbe1fba-51ac-4c07-bf4c-6bf1d174e14c"/>
-  <img width="100" alt="Screenshot 2024-08-08 at 15 03 20" src="https://github.com/user-attachments/assets/aa50097f-67a8-4e26-8eb2-1bf7746b4084"/>]
+  <img width="200" alt="Screenshot 2024-08-08 at 14 49 04" src="https://github.com/user-attachments/assets/5038660d-e096-428c-8c3f-62c17a20c1c5"/>
+  <img width="200" alt="Screenshot 2024-08-08 at 15 02 20" src="https://github.com/user-attachments/assets/c4e956fb-b319-4c2e-a3ad-9f355114c373"/>
+  <img width="200" alt="Screenshot 2024-08-08 at 15 02 39" src="https://github.com/user-attachments/assets/0854d882-b241-4749-9d09-9a0c8adacac4"/>
+  <img width="200" alt="Screenshot 2024-08-08 at 15 03 07" src="https://github.com/user-attachments/assets/dcbe1fba-51ac-4c07-bf4c-6bf1d174e14c"/>
+  <img width="200" alt="Screenshot 2024-08-08 at 15 03 20" src="https://github.com/user-attachments/assets/aa50097f-67a8-4e26-8eb2-1bf7746b4084"/>]
 </p>
 
 In this test, it is expected that you can build a simple Android application with good programming practices and enough validations to avoid any inconvenience to the end user.
